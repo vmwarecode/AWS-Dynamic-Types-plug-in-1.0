@@ -1,0 +1,1 @@
+# AWS-Dynamic-Types-plug-in-1.0
